@@ -1,0 +1,5 @@
+   11  mkdir Nuevo
+   12  touch escrito.txt
+   13  clear
+   14  sudo apt install nodejs
+   15  node -V
