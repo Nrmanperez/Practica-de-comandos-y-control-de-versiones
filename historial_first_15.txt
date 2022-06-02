@@ -1,0 +1,15 @@
+    1  ping google.com
+    2  ip
+    3  ls
+    4  ls -l
+    5  cd Documents
+    6  ls
+    7  clear
+    8  cd..
+    9  cd ..
+   10  pwd
+   11  mkdir Nuevo
+   12  touch escrito.txt
+   13  clear
+   14  sudo apt install nodejs
+   15  node -V
